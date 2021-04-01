@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-1. Complete Ruby on Rails Developer
+1. First test repo on the Complete Ruby on Rails Developer
